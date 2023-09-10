@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently a uni student majoring in computer science.
-I enjoy ballet and pilates.🩰
+### I'm currently a uni student majoring in computer science.
+### I enjoy ballet and pilates.🩰
 
-Watch how I grow.🌳
+### Watch how I grow.🌳
