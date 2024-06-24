@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on open-source projects that focus on sustainable technology.
 - 🤔 I’m looking for help with mastering machine learning frameworks.
 - 💬 Ask me about my journey in computer science and my experiences living abroad.
-- 📫 How to reach me: You can contact me via email at [your-email@example.com].
+- 📫 How to reach me: You can contact me via email at [202115057@sangmyung.kr].
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I can speak three languages and enjoy exploring different cultures. + I love swimming🏊‍♀️.
 
